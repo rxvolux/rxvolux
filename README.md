@@ -19,3 +19,6 @@
 <li>🛠️ Frameworks such as ReactJS & Discord SDK</li>
 <li>🛠️ Java & PHP</li>
 </ul>
+
+<h3>Application Usage & Info 📝</h3>
+<img src="https://iconscout.com/icon/html-2752158.png">
