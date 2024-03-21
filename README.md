@@ -1,4 +1,4 @@
-Hey There, I'm Revolux 👋
+# Hey There, I'm Revolux 👋
 
 I'm a UI Designer & Developer
 -----------------------
