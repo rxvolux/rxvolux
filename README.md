@@ -1,2 +1,2 @@
-# Meet Revolux 👋
-### A UX Designer & Developer
+# Meet Revolux
+### A UX Designer & Developer ✨
