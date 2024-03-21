@@ -22,3 +22,4 @@
 
 <h3>Application Usage & Info 📝</h3>
 <img src="https://i.ibb.co/SwD05wC/IMG-0913.png" alt="IMG-0913" border="0" width="40px" height="40px">
+<img src="https://i.ibb.co/8dQspFR/IMG-0914.webp" alt="IMG-0914" border="0" width="40px" height="40px" margin-left="6px">
