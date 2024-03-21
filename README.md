@@ -21,4 +21,4 @@
 </ul>
 
 <h3>Application Usage & Info 📝</h3>
-<img src="https://en.m.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SwD05wC/IMG-0913.png" alt="IMG-0913" border="0"></a>
