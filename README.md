@@ -1,7 +1,6 @@
 # About Me✨
 
-Hey There! I'm Revolux...
------------------------
+## Hey There! I'm Revolux...
 
 Hey there! I’m Revolux, a pleasure to meet you. I create amateur UI designs to improve the digital realm, looking at things from a users perspective 👀. Dabbles around with a bunch of different web technologies & programming language to make life easy, constantly looking to improve my skills 📝 to better myself and the world around me.
 
