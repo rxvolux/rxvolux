@@ -10,8 +10,12 @@
 <h3>Skills & Knowledge ✨</h3>
 <p>The following are skills that I've confident in or am looking to develop within the near future. This will change & be added to overtime:</p>
 <ul>
+<li>⚡️ UI/UX Design</li>
 <li>⚡️ Discord Administration</li>
 <li>⚡️ Web Development</li>
 <li>⚡️ Media Management & Social Media</li>
 <li>🛠️ IOS Development</li>
+<li>🛠️ Advanced Python</li>
+<li>🛠️ Frameworks such as ReactJS & Discord SDK</li>
+<li>🛠️ Java & PHP</li>
 </ul>
