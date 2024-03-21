@@ -1,7 +1,7 @@
-Hi! My name is Revolux ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hey There 👋, I'm Revolux
 ===============================================================================================================================
 
-UI Designer & Developer
+I'm a UI Designer & Developer
 -----------------------
 
 Hey there! I’m Revolux, a pleasure to meet you. I create amateur UI designs to improve the digital realm, looking at things from a users perspective 👀. Dabbles around with a bunch of different web technologies & programming language to make life easy, constantly looking to improve my skills 📝 to better myself and the world around me.
