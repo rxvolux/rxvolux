@@ -21,4 +21,4 @@
 </ul>
 
 <h3>Application Usage & Info 📝</h3>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/SwD05wC/IMG-0913.png" alt="IMG-0913" border="0"></a>
+<img src="https://i.ibb.co/SwD05wC/IMG-0913.png" alt="IMG-0913" border="0" width="15px" height="15px">
