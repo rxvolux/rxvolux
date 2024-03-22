@@ -27,11 +27,11 @@
 <img src="https://i.ibb.co/y0S7Rcy/IMG-0915.png" alt="IMG-0915" border="0" width="35px" height="35px" margin-left="6px">
 <img src="https://i.ibb.co/vQJ2WV5/IMG-0923.png" alt="IMG-0923" border="0" width="33px" height="33px" margin-left="6px">
 <img src="https://i.ibb.co/6Wy9yvg/IMG-0924.png" alt="IMG-0924" border="0" width="37px" height="37px" margin-left="6px">
+<img src="https://i.ibb.co/rFwxr08/IMG-0927.png" alt="IMG-0927" border="0" width="38px" height="38px" margin-left="6px">
 <br>
 <img src="https://i.ibb.co/nk2H2JS/IMG-0916.png" alt="IMG-0916" border="0" width="40px" height="40px" margin-left="6px">
 <img src="https://i.ibb.co/qdFCTdt/IMG-0917.png" alt="IMG-0917" border="0" width="38px" height="38px" margin-left="6px">
 <img src="https://i.ibb.co/qsZ6F5J/IMG-0918.png" alt="IMG-0918" border="0" width="40px" height="40px" margin-left="6px">
 <img src="https://i.ibb.co/DW2j5Yw/IMG-0920.webp" alt="IMG-0920" border="0" width="38px" height="38px" margin-left="6px">
 <img src="https://i.ibb.co/qgNRDGP/IMG-0926.png" alt="IMG-0925" border="0" width="35px" height="35px" margin-left="6px">
-<img src="https://i.ibb.co/rFwxr08/IMG-0927.png" alt="IMG-0927" border="0" width="38px" height="38px" margin-left="6px">
 </div>
