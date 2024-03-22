@@ -32,5 +32,5 @@
 <img src="https://i.ibb.co/qdFCTdt/IMG-0917.png" alt="IMG-0917" border="0" width="38px" height="38px" margin-left="6px">
 <img src="https://i.ibb.co/qsZ6F5J/IMG-0918.png" alt="IMG-0918" border="0" width="40px" height="40px" margin-left="6px">
 <img src="https://i.ibb.co/DW2j5Yw/IMG-0920.webp" alt="IMG-0920" border="0" width="38px" height="38px" margin-left="6px">
-<img src="https://i.ibb.co/qgNRDGP/IMG-0926.png" alt="IMG-0925" border="0" width="35px" height="35px" margin-left="6px">
+<img src="https://i.ibb.co/qgNRDGP/IMG-0926.png" alt="IMG-0925" border="0" width="30px" height="30px" margin-left="6px">
 </div>
