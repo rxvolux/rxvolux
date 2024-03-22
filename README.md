@@ -25,7 +25,7 @@
 <img src="https://i.ibb.co/SwD05wC/IMG-0913.png" alt="IMG-0913" border="0" width="40px" height="40px">
 <img src="https://i.ibb.co/8dQspFR/IMG-0914.webp" alt="IMG-0914" border="0" width="40px" height="40px" margin-left="6px">
 <img src="https://i.ibb.co/y0S7Rcy/IMG-0915.png" alt="IMG-0915" border="0" width="35px" height="35px" margin-left="6px">
-<img src="https://i.ibb.co/wSTG8nx/IMG-0922.png" alt="IMG-0922" border="0" width="38px" height="38px" margin-left="6px">
+<img src="https://i.ibb.co/wSTG8nx/IMG-0922.png" alt="IMG-0922" border="0" width="36px" height="36px" margin-left="6px">
 <br>
 <img src="https://i.ibb.co/nk2H2JS/IMG-0916.png" alt="IMG-0916" border="0" width="40px" height="40px" margin-left="6px">
 <img src="https://i.ibb.co/qdFCTdt/IMG-0917.png" alt="IMG-0917" border="0" width="38px" height="38px" margin-left="6px">
