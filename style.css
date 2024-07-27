@@ -187,3 +187,21 @@ margin-right: 0.5rem;
 #main_cta_about{
     width: 150px;
 }
+
+/* =========================== Hero Responsive Behaviour =========================== */
+
+@media only screen and (max-width: 950px){
+    main h1{
+        width: 800px;
+        font-size: 3rem;
+    }
+
+    #intro{
+        font-size: 1.1rem;
+    }
+
+    #main_desc{
+        width: 650px;
+        font-size: 0.9rem;
+    }
+}
